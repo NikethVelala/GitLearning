@@ -6,5 +6,8 @@ public class Main {
 
         System.out.println("Made changes for newbranch");
         System.out.println("Made new changes for anotherNewBranch");
+
+        // Adding a variable
+        String king = "Niketh";
     }
 }
