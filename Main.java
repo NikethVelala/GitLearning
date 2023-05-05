@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Here we have cut a branch from \"main\" named \"anotherNewBranch\"");
 
         System.out.println("Made changes for newbranch");
+        System.out.println("Made new changes for anotherNewBranch");
     }
 }
