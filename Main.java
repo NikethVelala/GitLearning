@@ -9,5 +9,8 @@ public class Main {
 
         // Adding a variable
         String king = "Niketh";
+
+        // A new variable
+        int id = 1;
     }
 }
