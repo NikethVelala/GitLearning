@@ -12,5 +12,8 @@ public class Main {
 
         // A new variable
         int id = 1;
+
+        // This comment to understand "Squashing"
+
     }
 }
