@@ -15,6 +15,8 @@ public class Main {
 
         // This comment to understand "Squashing"
 
-        // This commit is to understand git commit --amend -m "<message>"
+        // This commit is to understand git commit --amend -m "<message>
+
+        // Checking (remove this comment later)
     }
 }
